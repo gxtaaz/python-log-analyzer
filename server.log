@@ -1,0 +1,10 @@
+2026-10-20 10:00:00 INFO Server started successfully
+2026-10-20 10:01:00 INFO User login successful
+2026-10-20 10:02:00 WARNING CPU usage above 80 percent
+2026-10-20 10:03:00 ERROR Database connection failed
+2026-10-20 10:04:00 INFO Request processed successfully
+2026-10-20 10:05:00 ERROR Disk space critically low
+2026-10-20 10:06:00 WARNING Memory usage is high
+2026-10-20 10:07:00 ERROR Application response timeout
+2026-10-20 10:08:00 INFO Server health check passed
+2026-10-20 10:09:00 WARNING Too many requests detected
